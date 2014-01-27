@@ -1,4 +1,4 @@
-update=Sunday, 26 January 2014 19:01:43
+update=Monday, 27 January 2014 21:34:50
 version=1
 last_client=pcbnew
 [cvpcb]
@@ -79,3 +79,4 @@ LibName8=led
 LibName9=dip_sockets
 LibName10=pga_sockets
 LibName11=valves
+LibName12=SPIvsSPI
